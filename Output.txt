@@ -1,0 +1,46 @@
+Customer 1 arrives at the bank at time 5.10
+Customer 1 starts service at time 5.10, waited for 0.00
+Customer 2 arrives at the bank at time 5.23
+Customer 2 starts service at time 5.23, waited for 0.00
+Customer 3 arrives at the bank at time 6.49
+Customer 3 starts service at time 6.49, waited for 0.00
+Customer 1 finishes service at time 8.32
+Customer 4 arrives at the bank at time 12.14
+Customer 4 starts service at time 12.14, waited for 0.00
+Customer 5 arrives at the bank at time 12.59
+Customer 6 arrives at the bank at time 12.74
+Customer 7 arrives at the bank at time 13.98
+Customer 8 arrives at the bank at time 17.49
+Customer 4 finishes service at time 17.62
+Customer 5 starts service at time 17.62, waited for 5.03
+Customer 9 arrives at the bank at time 17.63
+Customer 2 finishes service at time 18.56
+Customer 6 starts service at time 18.56, waited for 5.82
+Customer 5 finishes service at time 19.83
+Customer 7 starts service at time 19.83, waited for 5.86
+Customer 7 finishes service at time 22.32
+Customer 8 starts service at time 22.32, waited for 4.83
+Customer 10 arrives at the bank at time 22.88
+Customer 6 finishes service at time 26.44
+Customer 9 starts service at time 26.44, waited for 8.81
+Customer 9 finishes service at time 26.50
+Customer 10 starts service at time 26.50, waited for 3.62
+Customer 3 finishes service at time 28.76
+Customer 11 arrives at the bank at time 31.17
+Customer 11 starts service at time 31.17, waited for 0.00
+Customer 8 finishes service at time 31.22
+Customer 11 finishes service at time 35.32
+Customer 12 arrives at the bank at time 37.15
+Customer 12 starts service at time 37.15, waited for 0.00
+Customer 13 arrives at the bank at time 38.00
+Customer 13 starts service at time 38.00, waited for 0.00
+Customer 13 finishes service at time 38.97
+Customer 14 arrives at the bank at time 40.05
+Customer 14 starts service at time 40.05, waited for 0.00
+Customer 15 arrives at the bank at time 40.56
+Customer 10 finishes service at time 42.89
+Customer 15 starts service at time 42.89, waited for 2.33
+Customer 16 arrives at the bank at time 45.19
+Average wait time: 2.42 minutes
+Average queue length: 0.62 customers
+Teller utilization: 24.00%
